@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Sitemap: http://127.0.0.1:5500/sitemap.xml
